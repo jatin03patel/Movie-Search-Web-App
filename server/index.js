@@ -29,4 +29,6 @@ mongoose.connect(process.env.MONGODB_URL).then(() => {
   process.exit(1);
 });
 
-//test
+//mongodb+srv://patelsir1512_db_user:jatin123@cluster0.7zww3lo.mongodb.net/
+//PORT=5000
+//TOKEN_SECRET_KEY=yourRandomSecretKey123!

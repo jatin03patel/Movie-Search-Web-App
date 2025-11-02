@@ -5,9 +5,9 @@ const Logo = () => {
 
   return (
     <Typography fontWeight="700" fontSize="1.7rem">
-      Moon<span style={{ color: theme.palette.primary.main }}>Flix</span>
+      Hd<span style={{ color: theme.palette.primary.main }}>Movie</span>
     </Typography>
   );
 };
 
-export default Logo;
+export default Logo
